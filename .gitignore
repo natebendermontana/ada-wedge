@@ -1,3 +1,12 @@
+# ignore files/folders
+data/
+.DS_Store
+Bender-Wedge-76317b2418c4.json
+Bender-Wedge-79e456939915.json
+*.txt
+NBwedgetask3.db
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
